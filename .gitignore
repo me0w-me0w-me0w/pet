@@ -1,0 +1,21 @@
+# build output
+pethouse/dist/
+
+# generated types
+pethouse/.astro/
+
+# dependencies
+pethouse/node_modules/
+
+# logs
+pethouse/npm-debug.log*
+pethouse/yarn-debug.log*
+pethouse/yarn-error.log*
+pethouse/pnpm-debug.log*
+
+# environment variables
+pethouse/.env
+pethouse/.env.production
+
+# macOS-specific files
+pethouse/.DS_Store

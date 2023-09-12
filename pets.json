@@ -1,0 +1,13 @@
+[{
+    "id":1,
+    "name":"Pfetch",
+    "desc":"Fetch Info of your LinuxOS",
+    "repo":"https://raw.githubusercontent.com/srinidhibhat45/HelloWorldCollections/main/bash/helloworld.sh",
+    "install":false
+},{
+    "id":2,
+    "name":"Psurf",
+    "desc":"Surf browser with pinned resources",
+    "repo":"https://www.github.com/link.sh",
+    "install":false
+}]
