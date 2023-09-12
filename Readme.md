@@ -57,31 +57,16 @@ pet remove <pkg>
 pet launch <pkg>
 ```
 
-- githubPageDeploy : ask repo , ask dist_dir , ask Pkg_Manager
-- Calculator : 
-- Joke
-```yml
-{
-  error: false,
-  category: "Programming",
-  type: "twopart",
-  setup: "Why did the programmer quit his job?",
-  delivery: "Because he didn't get arrays.",
-  flags: {
-    nsfw: false,
-    religious: false,
-    political: false,
-    racist: false,
-    sexist: false,
-    explicit: false
-  },
-  id: 16,
-  safe: true,
-  lang: "en"
-}
-```
-
 ---
 
-# Website
-- ref : https://astro-milky-way.netlify.app/
+- [Template ](https://astro-milky-way.netlify.app/)
+
+## Pets ( Packages )
+- PIYUOS
+
+### CLI App
+- DotFile ( Alias , scripts )
+
+### Web App
+- Kagad
+- 

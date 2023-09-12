@@ -1,5 +1,19 @@
+req: bun
 ill : https://bigheads.io/
 icon : https://devicon.dev/
+
+### Github Pages
+```js
+import { defineConfig } from 'astro/config';
+
+// https://astro.build/config
+export default defineConfig({
+  site: 'https://me0w-me0w-me0w.github.io',
+  base: '/pet',
+})
+
+```
+
 # Milky-Way
 
 This is a portfolio template built using CSS, HTML, JavaScript, and Astro. It serves as a starting point for creating your personal portfolio website or showcasing your projects online. The template is open-source and released under the MIT license, meaning you are free to use, modify, and distribute it for personal or commercial purposes.
